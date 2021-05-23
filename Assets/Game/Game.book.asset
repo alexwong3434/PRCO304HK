@@ -44,12 +44,314 @@ MonoBehaviour:
       - 
       - 
       - 
-      - Template Scenario Start
+      - Demo Scenario Start
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 2
       debugIndex: 2
+      strings:
+      - Bgm
+      - VisionsofInnocence
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - Bg
+      - StartingRoom
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\greetings\good_morning.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Good Morning
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - May I ask who you are?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 8
+      strings:
+      - Selection
+      - '*Clerk'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Just a Clerk in Trading Company
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 9
+      strings:
+      - Selection
+      - '*Admin'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - IT Guy? Nah, System Administrator
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 10
+      strings:
+      - Selection
+      - '*Criminal'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Cyber Criminal, Sounds Cool?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 12
+      strings:
+      - '*Clerk'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 13
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\alright.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 14
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Alright, You are Clerk
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 15
+      strings:
+      - Jump
+      - '*End'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 17
+      strings:
+      - '*Admin'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 18
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\okay_normal.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 19
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Okay, Administrator
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 20
+      strings:
+      - Jump
+      - '*End'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 22
+      strings:
+      - '*Criminal'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 23
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\okay_disappointed.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 24
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Okay..A Criminal
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 25
+      strings:
+      - Jump
+      - '*End'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 27
+      strings:
+      - '*End'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 28
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\greetings\see_you_later.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 29
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - I will see you later
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 30
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 31
+      strings:
+      - BgOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 32
       strings:
       - 
       - 
@@ -63,8 +365,15 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 3
-      debugIndex: 3
+    - rowIndex: 28
+      debugIndex: 33
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 34
       strings:
       - EndScenario
       isEmpty: 0
@@ -72,7 +381,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Game/Game.xls:Start
     type: 1
-    textLength: 121
+    textLength: 788
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -105,9 +414,25 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - Maid
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .75
+      - 
+      - 20170902_maid.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Character
     type: 1
-    textLength: 154
+    textLength: 182
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -133,9 +458,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - StartingRoom
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Futon_Room.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 140
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -176,9 +516,53 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - Left
+      - Character
+      - -250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - Center
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - Right
+      - Character
+      - 250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - Bg
+      - Bg
+      - 0
+      - 0
+      - 0
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 178
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -345,9 +729,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - VisionsofInnocence
+      - 
+      - Bgm
+      - 1. Visions of Innocence.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 85
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -475,12 +869,344 @@ MonoBehaviour:
       - 
       - 
       - 
-      - Template Scenario Start
+      - Demo Scenario Start
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 2
       debugIndex: 2
+      strings:
+      - Bgm
+      - VisionsofInnocence
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - Bg
+      - StartingRoom
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\greetings\good_morning.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Good Morning
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - May I ask who you are?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - Selection
+      - '*Clerk'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Just a Clerk in Trading Company
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - Selection
+      - '*Admin'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - IT Guy? Nah, System Administrator
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - Selection
+      - '*Criminal'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Cyber Criminal, Sounds Cool?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - '*Clerk'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\alright.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Alright, You are Clerk
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - Jump
+      - '*End'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - '*Admin'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\okay_normal.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Okay, Administrator
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - Jump
+      - '*End'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - '*Criminal'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\okay_disappointed.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Okay..A Criminal
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - Jump
+      - '*End'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - '*End'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\greetings\see_you_later.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - I will see you later
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - BgOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
       strings:
       - 
       - 
@@ -494,8 +1220,15 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 3
-      debugIndex: 3
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
       strings:
       - EndScenario
       isEmpty: 0
@@ -503,6 +1236,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Game/Game.xls:Start
     type: 1
-    textLength: 121
+    textLength: 788
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
