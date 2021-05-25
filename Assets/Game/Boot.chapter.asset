@@ -59,9 +59,121 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - CalendarMonday
+      - '     '
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - calendarMonday.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - ClerkPhone
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - clerkPhone.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - Hudson
+      - Hudson
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .75
+      - 
+      - 20200101_man2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - ClerkWatchNews
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - clerkWatchNews.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - ClerkWebMail
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1.25
+      - 
+      - ClerkWebMail.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - ClerkPhishmail
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1.5
+      - 
+      - phishemail.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - WannaCry
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1.5
+      - 
+      - wannacry.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Character
     type: 1
-    textLength: 182
+    textLength: 393
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -102,9 +214,69 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - ClerkBedRoom
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - hotel room b day.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - TrainTunnel
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Train_Tunnel.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - Office
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 2
+      - 
+      - dexus-office-space.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - ClerkDesk
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - ClerkDesk.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Texture
     type: 1
-    textLength: 140
+    textLength: 258
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -368,9 +540,59 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - ClerkAlarm
+      - 
+      - Se
+      - Alarmclockringing.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - ClerkWalking
+      - 
+      - Se
+      - sneaker-shoe-fast.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - Train
+      - 
+      - Ambience
+      - mixkit-subway-station-escalator-hum-374.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - Office
+      - 
+      - Bgm
+      - 045_Eye To A Light.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - InfectedSE
+      - 
+      - Se
+      - mixkit-synth-mechanical-notification-or-alert-650.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Sound
     type: 1
-    textLength: 85
+    textLength: 305
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -411,9 +633,45 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - clerkWatchNews
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - ignorePhlishEmail
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - shutDownHudsonPC
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - shutDownYourPC
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Param
     type: 1
-    textLength: 91
+    textLength: 187
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
