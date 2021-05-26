@@ -171,9 +171,49 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - ITGuy
+      - ITGuy
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .75
+      - 
+      - 20190105_man.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - ITGuyOnPhone
+      - ITGuy
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - freeWifi
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - freewifi.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Character
     type: 1
-    textLength: 393
+    textLength: 459
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -225,7 +265,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - hotel room b day.png
+      - clerkBedroomDay.jpg
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -274,9 +314,39 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "Caf\xE9"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - cafe.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - ClerkBedRoomNight
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - clerkBedroomNight.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Texture
     type: 1
-    textLength: 258
+    textLength: 311
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -346,7 +416,7 @@ MonoBehaviour:
       - Character
       - 250
       - 0
-      - 190
+      - 210
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -590,9 +660,99 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - Dial
+      - 
+      - Se
+      - dial.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - ITGuyToClerk
+      - 
+      - Bgm
+      - 058_Worlds For A Mysterious Light.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - cafeAmbience
+      - 
+      - Ambience
+      - mixkit-calm-park-with-people-and-children-367
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - cafeBgm
+      - 
+      - Bgm
+      - 030_A Clear Candle Takes Glamour.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - ClerkPhoneRinging
+      - 
+      - Se
+      - mixkit-waiting-ringtone-1354.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - ClerkNight
+      - 
+      - Bgm
+      - 010_Runing Late.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - NightAmbience
+      - 
+      - Ambience
+      - mixkit-summer-night-crickets-loop-1789.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - PhoneCallEnd
+      - 
+      - Se
+      - PhoneCallEnd.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - ClerkEnd
+      - 
+      - Bgm
+      - 069_Sad Nothing Cares About A Song
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Sound
     type: 1
-    textLength: 305
+    textLength: 703
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -653,6 +813,12 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 6
       debugIndex: 6
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
       strings:
       - shutDownHudsonPC
       - Bool
@@ -660,8 +826,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 7
-      debugIndex: 7
+    - rowIndex: 8
+      debugIndex: 8
       strings:
       - shutDownYourPC
       - Bool
@@ -669,9 +835,51 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - clerkInfected
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - clerkNoBackup
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - clerkQuizHow
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - clerkQuizWhat
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Param
     type: 1
-    textLength: 187
+    textLength: 272
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
