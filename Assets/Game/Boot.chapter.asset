@@ -353,9 +353,191 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - Sofia
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .75
+      - 
+      - 20190720_woman.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - HackerBill
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - hackerBill.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - RansomVictimList
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - ransomVictimList.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - CheckBC
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - CheckBC.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - PocketWifi
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - PocketWifi.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - Clerk
+      - Clerk
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .75
+      - 
+      - 20200517_boy
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - WireShark
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1.25
+      - 
+      - Wireshark.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - IG
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1.25
+      - 
+      - IG.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - TextBack
+      - Victim's Friend
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - AccountList
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - AccountList.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - DeepWeb
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - deepweb.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - Buyer
+      - Buyer
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Character
     type: 1
-    textLength: 730
+    textLength: 1007
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -531,9 +713,84 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - HackerRoomDay
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - personal room day.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - HackerRoomEvening
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - personal room evening.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - HackerRoomNight
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - personal room night.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - HackerScreen
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - HackerScreen.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - Jail
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1.3
+      - 
+      - jail.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Texture
     type: 1
-    textLength: 419
+    textLength: 586
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -967,9 +1224,89 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - HackerAlarm
+      - 
+      - Se
+      - Alarm-ringtone.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - HackerPCAmbience
+      - 
+      - Ambience
+      - mixkit-sci-fi-computer-technology-2501.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - HackerHome1
+      - 
+      - Bgm
+      - 6. Fragile Heart.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - HackerHome2
+      - 
+      - Bgm
+      - 010_Runing Late.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - HackerCafe
+      - 
+      - Bgm
+      - Somewhere.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - HackerNight
+      - 
+      - Bgm
+      - 8. Melody of the Soul.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - Police
+      - 
+      - Se
+      - police.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - Knock
+      - 
+      - Se
+      - Knock.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Sound
     type: 1
-    textLength: 820
+    textLength: 1083
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -1250,9 +1587,69 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - hackerDreamQuiz1
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - hackerDreamQuiz2
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - hackerDreamQuiz3
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - checkRansomware
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - checkBills
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings:
+      - sendPhishEmail
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Param
     type: 1
-    textLength: 593
+    textLength: 729
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:

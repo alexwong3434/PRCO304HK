@@ -145,7 +145,7 @@ MonoBehaviour:
       debugIndex: 10
       strings:
       - Selection
-      - '*Criminal'
+      - '*HackerDream'
       - 
       - 
       - 
@@ -158,7 +158,3183 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Game/Game.xls:Start
     type: 1
-    textLength: 363
+    textLength: 366
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 0}
+    entityIndexTbl: 
+    entityDataList: []
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 4
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 5
+      strings:
+      - Bg
+      - HackerRoomDay
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 6
+      strings:
+      - Se
+      - HackerAlarm
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I knew it was a dream..but it looks so real)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 8
+      strings:
+      - Selection
+      - '*StopHackerAlarm'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Turn off your alarm clock
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 9
+      strings:
+      - '*StopHackerAlarm'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 10
+      strings:
+      - StopSe
+      - HackerAlarm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 11
+      strings:
+      - Bgm
+      - HackerHome1
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 12
+      strings:
+      - 
+      - CalendarMonday
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (It is Monday, bills expire months ago, I really need to do something )
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 15
+      strings:
+      - '*SelectionHackerTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 16
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 17
+      strings:
+      - Selection
+      - '*CheckBills'
+      - checkBills
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Check Bills
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 18
+      strings:
+      - Selection
+      - '*UseHackerPC'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Use Computer
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 20
+      strings:
+      - '*CheckBills'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 21
+      strings:
+      - Param
+      - checkBills=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 22
+      strings:
+      - 
+      - HackerBill
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 23
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Darn, it is a month ago)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 24
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (How do I pay off such amount...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 25
+      strings:
+      - Jump
+      - '*SelectionHackerTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 27
+      strings:
+      - '*UseHackerPC'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 28
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 29
+      strings:
+      - Bg
+      - HackerScreen
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 30
+      strings:
+      - Ambience
+      - HackerPCAmbience
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 31
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Okay, Let do it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 33
+      strings:
+      - '*HackerPCTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 34
+      strings:
+      - Selection
+      - '*CheckRansomware'
+      - checkRansomware
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Check Ransomware result
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 35
+      strings:
+      - Selection
+      - '*SendPhishEmail'
+      - sendPhishEmail
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Send out Phishing Email
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 37
+      strings:
+      - '*CheckRansomware'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 38
+      strings:
+      - Param
+      - sendPhishEmail=true
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 39
+      strings:
+      - Param
+      - checkRansomware=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 40
+      strings:
+      - 
+      - WannaCry
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 41
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is the Ransomware I distributed)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 42
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (It can encrypt victim's data and ask for payment)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 43
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let see how is my fish pond growing)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 44
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 45
+      strings:
+      - 
+      - RansomVictimList
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 40
+      debugIndex: 46
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (It is glowing, but not fast enough)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 41
+      debugIndex: 47
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (The decrypt key can pair with client id and decrypt their data)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 42
+      debugIndex: 48
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (But why should I bother? )
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 43
+      debugIndex: 49
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I am not going to send them out, even they pay me)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 44
+      debugIndex: 50
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 45
+      debugIndex: 51
+      strings:
+      - 
+      - CheckBC
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 46
+      debugIndex: 52
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Argh, I am so broke)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 47
+      debugIndex: 53
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I need to do more than this!)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 48
+      debugIndex: 54
+      strings:
+      - Jump
+      - '*HackerPCTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 49
+      debugIndex: 56
+      strings:
+      - '*SendPhishEmail'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 50
+      debugIndex: 57
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 51
+      debugIndex: 58
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Time to do some Spear Fishing)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 52
+      debugIndex: 59
+      strings:
+      - 
+      - ClerkPhishmail
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 53
+      debugIndex: 60
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is the email that will be sent with my Spam Email server)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 54
+      debugIndex: 61
+      strings:
+      - Jump
+      - '*GFShow'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 55
+      debugIndex: 63
+      strings:
+      - '*GFShow'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 56
+      debugIndex: 64
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 57
+      debugIndex: 65
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 58
+      debugIndex: 66
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 59
+      debugIndex: 67
+      strings:
+      - Bg
+      - HackerRoomDay
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 60
+      debugIndex: 68
+      strings:
+      - StopAmbience
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 61
+      debugIndex: 69
+      strings:
+      - Bgm
+      - HackerHome2
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 62
+      debugIndex: 70
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\anime_ah.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 63
+      debugIndex: 71
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - There you are
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 64
+      debugIndex: 72
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (My girl friend Sofia, we have been dating since high school)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 65
+      debugIndex: 73
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Sofi..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 66
+      debugIndex: 74
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\annoyed_grumble.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 67
+      debugIndex: 75
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Why didnt you call me back?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 68
+      debugIndex: 76
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I am..occupied
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 69
+      debugIndex: 77
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\question_words\what2.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 70
+      debugIndex: 78
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Is there anything I can help?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 71
+      debugIndex: 79
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I am fine, just mind your own business
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 72
+      debugIndex: 80
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\sigh2.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 73
+      debugIndex: 81
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Okay..I will come again
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 74
+      debugIndex: 82
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I need to take a breathe)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 75
+      debugIndex: 83
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 76
+      debugIndex: 84
+      strings:
+      - 
+      - PocketWifi
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 77
+      debugIndex: 85
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is a compact router with Wifi Radio and 4G connection)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 78
+      debugIndex: 86
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I will set it up as a public wifi)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 79
+      debugIndex: 87
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (and try to steal information if anyone connect to it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 80
+      debugIndex: 88
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 81
+      debugIndex: 89
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 82
+      debugIndex: 90
+      strings:
+      - Se
+      - ClerkWalking
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 83
+      debugIndex: 91
+      strings:
+      - Bg
+      - "Caf\xE9"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 84
+      debugIndex: 92
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 85
+      debugIndex: 93
+      strings:
+      - StopSe
+      - ClerkWalking
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 86
+      debugIndex: 94
+      strings:
+      - Ambience
+      - cafeAmbience
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 87
+      debugIndex: 95
+      strings:
+      - Bgm
+      - HackerCafe
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 88
+      debugIndex: 96
+      strings:
+      - Voice
+      - Hudson
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - sdap\6 - Miscellaneous\Male\Alex Brodie\miscellaneous_12_alex.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 89
+      debugIndex: 97
+      strings:
+      - 
+      - Hudson
+      - 
+      - Left
+      - 
+      - 
+      - 
+      - 
+      - At least we are having break now
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 90
+      debugIndex: 99
+      strings:
+      - 
+      - Clerk
+      - 
+      - Right
+      - 
+      - 
+      - 
+      - 
+      - Yeah..Right..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 91
+      debugIndex: 100
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 92
+      debugIndex: 101
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Looks like this place is populated)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 93
+      debugIndex: 102
+      strings:
+      - 
+      - PocketWifi
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 94
+      debugIndex: 103
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (It is your turn, bring me something valuable)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 95
+      debugIndex: 104
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 96
+      debugIndex: 105
+      strings:
+      - 
+      - freeWifi
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - (It is working)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 97
+      debugIndex: 106
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 98
+      debugIndex: 107
+      strings:
+      - 
+      - WireShark
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 99
+      debugIndex: 108
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let me see...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 100
+      debugIndex: 109
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Social Media Account..Email Account...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 101
+      debugIndex: 110
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Great!)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 102
+      debugIndex: 111
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let me test the friendship between you and your friends)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 103
+      debugIndex: 112
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 104
+      debugIndex: 113
+      strings:
+      - 
+      - IG
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 105
+      debugIndex: 114
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let try the one who is currently online)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 106
+      debugIndex: 115
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-smartphone-typing-1393.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 107
+      debugIndex: 116
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 'Text: Hey How you doing'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 108
+      debugIndex: 117
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 109
+      debugIndex: 118
+      strings:
+      - 
+      - TextBack
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Great! How about you?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 110
+      debugIndex: 119
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-smartphone-typing-1393.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 111
+      debugIndex: 120
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 'Text: Actaully, I may need some help'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 112
+      debugIndex: 121
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 113
+      debugIndex: 122
+      strings:
+      - 
+      - TextBack
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - What is it?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 114
+      debugIndex: 123
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-smartphone-typing-1393.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 115
+      debugIndex: 124
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I am on business trip and short on cash, could you send 800 to my account
+        ?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 116
+      debugIndex: 125
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I will return to you asap
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 117
+      debugIndex: 126
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 118
+      debugIndex: 127
+      strings:
+      - 
+      - TextBack
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Sure, I transfer to you after work, send to the same account?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 119
+      debugIndex: 128
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-smartphone-typing-1393.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 120
+      debugIndex: 129
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 'No no, please send it to my new account: 099-233941'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 121
+      debugIndex: 130
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 122
+      debugIndex: 131
+      strings:
+      - 
+      - TextBack
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Okie, Lets meet when you get back, I will try to get Louis too
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 123
+      debugIndex: 132
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 124
+      debugIndex: 133
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (HAHAHA, Easy)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 125
+      debugIndex: 134
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Gonna go home and sell the victim's data on the web)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 126
+      debugIndex: 136
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 127
+      debugIndex: 137
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 128
+      debugIndex: 138
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 129
+      debugIndex: 139
+      strings:
+      - Bgm
+      - HackerNight
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 130
+      debugIndex: 140
+      strings:
+      - Bg
+      - HackerRoomNight
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 131
+      debugIndex: 141
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let do the last thing of today)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 132
+      debugIndex: 142
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 133
+      debugIndex: 143
+      strings:
+      - Bg
+      - HackerScreen
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 134
+      debugIndex: 144
+      strings:
+      - Ambience
+      - HackerPCAmbience
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 135
+      debugIndex: 145
+      strings:
+      - Selection
+      - '*SellList'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Sell the Victim Data on the web
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 136
+      debugIndex: 146
+      strings:
+      - '*SellList'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 137
+      debugIndex: 147
+      strings:
+      - 
+      - AccountList
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 138
+      debugIndex: 148
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is the list, Hope it worth my time dealing with it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 139
+      debugIndex: 149
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 140
+      debugIndex: 150
+      strings:
+      - 
+      - DeepWeb
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 141
+      debugIndex: 151
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 142
+      debugIndex: 152
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 143
+      debugIndex: 153
+      strings:
+      - Bg
+      - HackerScreen
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 144
+      debugIndex: 154
+      strings:
+      - 
+      - DeepWeb
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 145
+      debugIndex: 155
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - '*After a moment later*'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 146
+      debugIndex: 156
+      strings:
+      - Voice
+      - Buyer
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 147
+      debugIndex: 157
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Hey, You still selling?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 148
+      debugIndex: 158
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Great, a buyer)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 149
+      debugIndex: 159
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Yeah, You interested?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 150
+      debugIndex: 160
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - How do I pay to you?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 151
+      debugIndex: 161
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - To my BitCoin Account will do
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 152
+      debugIndex: 162
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Listen dude, I am quite urgent on this one
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 153
+      debugIndex: 163
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - If I can get it right now, I can pay you more
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 154
+      debugIndex: 164
+      strings:
+      - Voice
+      - Buyer
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 155
+      debugIndex: 165
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Do you have any account besides Bitcoin?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 156
+      debugIndex: 166
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (No way I am retrieving payment on a real account)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 157
+      debugIndex: 167
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (But I really need that extra cash, hmm.. That account may do)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 158
+      debugIndex: 168
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 'Send to this account: 099-233941'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 159
+      debugIndex: 169
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 160
+      debugIndex: 170
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Settled!)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 161
+      debugIndex: 171
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 162
+      debugIndex: 172
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 163
+      debugIndex: 173
+      strings:
+      - Bg
+      - HackerRoomNight
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 164
+      debugIndex: 174
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is time to rest)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 165
+      debugIndex: 175
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\anime_ah.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 166
+      debugIndex: 176
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Hey..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 167
+      debugIndex: 177
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Sofi again)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 168
+      debugIndex: 178
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Sofi, I will make it right and I have plans
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 169
+      debugIndex: 179
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - So dont worry, I got it
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 170
+      debugIndex: 180
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\anime_haa.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 171
+      debugIndex: 181
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - But you said..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 172
+      debugIndex: 182
+      strings:
+      - Se
+      - Knock
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 173
+      debugIndex: 183
+      strings:
+      - Se
+      - Police
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 174
+      debugIndex: 184
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\question_words\what3.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 175
+      debugIndex: 185
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - But you said..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 176
+      debugIndex: 186
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (screwed up..)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 177
+      debugIndex: 187
+      strings:
+      - StopSe
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 178
+      debugIndex: 188
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 179
+      debugIndex: 189
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 180
+      debugIndex: 190
+      strings:
+      - Bg
+      - Jail
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 181
+      debugIndex: 191
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - By The Computer Misuse Act 1990 (CMA 1990)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 182
+      debugIndex: 192
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - '1. Unauthorised access to computer material;
+
+'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 183
+      debugIndex: 193
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 2. Unauthorised access with intent to commit a further offence;
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 184
+      debugIndex: 194
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 3. Unauthorised acts with intent to impair, or with recklessness as to impairing,
+        operation of computer, etc (as amended by the Police and Justice Act 2006).
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 185
+      debugIndex: 195
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "Penalties for offences under CMA 1990 range from two years\u2019 imprisonment
+        and/or a fine for unauthorised access to computer material;"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 186
+      debugIndex: 196
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Up to five years and/or a fine for unauthorised access with intent to commit
+        or facilitate commission of further offences;
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 187
+      debugIndex: 197
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Up to 10 years and/or a fine for unauthorised modification of computer material;
+        and imprisonment for life and/or a fine for breach of s 3ZA.
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 188
+      debugIndex: 198
+      strings:
+      - FadeOut
+      - black
+      - 
+      - 
+      - 
+      - 
+      - .8
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 189
+      debugIndex: 199
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Demo End
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 190
+      debugIndex: 200
+      strings:
+      - EndScenario
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Game/Game.xls:HackerDay
+    type: 1
+    textLength: 5670
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 0}
+    entityIndexTbl: 
+    entityDataList: []
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 1
+      debugIndex: 2
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\alright.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 3
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Gambling kind? Walking the wire take guts
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - It is a business, I just want to make fortune
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Do I know her? I should ask her...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 6
+      strings:
+      - '*HackerDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 7
+      strings:
+      - Selection
+      - '*HackerDreamQuestion1'
+      - hackerDreamQuiz1
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Who is this woman?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 8
+      strings:
+      - Selection
+      - '*HackerDreamQuestion2'
+      - hackerDreamQuiz2
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Why am I here?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 9
+      strings:
+      - Selection
+      - '*HackerDreamQuestion3'
+      - hackerDreamQuiz3
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Do I know her?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 10
+      strings:
+      - Selection
+      - '*HackerFinishAsking'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Finish Asking
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 12
+      strings:
+      - '*HackerDreamQuestion1'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Who are you?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 14
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\sigh1.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 15
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - I am the Housekeeper
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 16
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (What? I dont understand)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 17
+      strings:
+      - Param
+      - hackerDreamQuiz1=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 18
+      strings:
+      - Jump
+      - '*HackerDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 20
+      strings:
+      - '*HackerDreamQuestion2'
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 21
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - What is the place?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 22
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\okay_happy.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 23
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - This is my place, You came here by your intention
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 24
+      strings:
+      - Param
+      - hackerDreamQuiz2=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 25
+      strings:
+      - Jump
+      - '*HackerDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 27
+      strings:
+      - '*HackerDreamQuestion3'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 28
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I dont know you
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 29
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\laugh.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 30
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Nice to meet you
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 31
+      strings:
+      - Param
+      - hackerDreamQuiz3=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 32
+      strings:
+      - Jump
+      - '*HackerDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 34
+      strings:
+      - '*HackerFinishAsking'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 35
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I think that is it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 36
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\greetings\goodbye.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 37
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Farewell, Hope we will meet again
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 38
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 40
+      strings:
+      - Jump
+      - '*HackerDay'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Game/Game.xls:HackerDream
+    type: 1
+    textLength: 1184
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 0}
+    entityIndexTbl: 
+    entityDataList: []
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 1
+      debugIndex: 2
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\alright.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 3
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Fascinating, A specialist in technology
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - It is not like that, but I does fix a great number of computer problems
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Do I know her? I should ask her...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 6
+      strings:
+      - '*AdminDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 7
+      strings:
+      - Selection
+      - '*AdminDreamQuestion1'
+      - adminDreamQuiz1
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Her Name
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 8
+      strings:
+      - Selection
+      - '*AdminDreamQuestion2'
+      - adminDreamQuiz2
+      - 
+      - 
+      - 
+      - 
+      - 
+      - About this place
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 9
+      strings:
+      - Selection
+      - '*AdminDreamQuestion3'
+      - adminDreamQuiz3
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I saw you before?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 10
+      strings:
+      - Selection
+      - '*AdminFinishAsking'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Finish Asking
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 12
+      strings:
+      - '*AdminDreamQuestion1'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Hmm....What was your name again?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 14
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\sigh1.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 15
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Please call me Priscilla
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 16
+      strings:
+      - Param
+      - adminDreamQuiz1=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 17
+      strings:
+      - Jump
+      - '*AdminDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 19
+      strings:
+      - '*AdminDreamQuestion2'
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 20
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Where am i?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 21
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\okay_happy.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 22
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - This is my place, Do you like it?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 23
+      strings:
+      - Param
+      - adminDreamQuiz2=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 24
+      strings:
+      - Jump
+      - '*AdminDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 26
+      strings:
+      - '*AdminDreamQuestion3'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 27
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Have i seen you before?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 28
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\laugh.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 29
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - It is a small world
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 30
+      strings:
+      - Param
+      - adminDreamQuiz3=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 31
+      strings:
+      - Jump
+      - '*AdminDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 33
+      strings:
+      - '*AdminFinishAsking'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 34
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I think that is it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 35
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 37
+      strings:
+      - Jump
+      - '*AdminDay'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Game/Game.xls:AdminDream
+    type: 1
+    textLength: 1085
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -3161,14 +6337,14 @@ MonoBehaviour:
       - 
       - 
       - 
-      - Yeah, I helped monney clean the dinning table
+      - Yeah, I helped monny clean the dinning table
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 251
       debugIndex: 281
       strings:
-      - CharcterOff
+      - CharacterOff
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -3245,30 +6421,52 @@ MonoBehaviour:
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 257
+      debugIndex: 287
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Can we have dinner? I havent eat yet
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 258
       debugIndex: 288
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 259
+      debugIndex: 289
       strings:
       - FadeIn
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 258
-      debugIndex: 289
+    - rowIndex: 260
+      debugIndex: 290
       strings:
       - Bgm
       - VisionsofInnocence
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 259
-      debugIndex: 290
+    - rowIndex: 261
+      debugIndex: 291
       strings:
       - Bg
       - StartingRoom
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 260
-      debugIndex: 291
+    - rowIndex: 262
+      debugIndex: 292
       strings:
       - Voice
       - Maid
@@ -3284,8 +6482,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 261
-      debugIndex: 292
+    - rowIndex: 263
+      debugIndex: 293
       strings:
       - 
       - Maid
@@ -3299,8 +6497,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 262
-      debugIndex: 293
+    - rowIndex: 264
+      debugIndex: 294
       strings:
       - 
       - 
@@ -3314,8 +6512,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 263
-      debugIndex: 294
+    - rowIndex: 265
+      debugIndex: 295
       strings:
       - Voice
       - Maid
@@ -3331,8 +6529,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 264
-      debugIndex: 295
+    - rowIndex: 266
+      debugIndex: 296
       strings:
       - 
       - Maid
@@ -3346,8 +6544,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 265
-      debugIndex: 296
+    - rowIndex: 267
+      debugIndex: 297
       strings:
       - Voice
       - Maid
@@ -3363,8 +6561,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 266
-      debugIndex: 297
+    - rowIndex: 268
+      debugIndex: 298
       strings:
       - 
       - Maid
@@ -3378,8 +6576,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 267
-      debugIndex: 299
+    - rowIndex: 269
+      debugIndex: 300
       strings:
       - FadeOut
       - black
@@ -3391,8 +6589,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 268
-      debugIndex: 300
+    - rowIndex: 270
+      debugIndex: 301
       strings:
       - 
       - 
@@ -3406,8 +6604,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 269
-      debugIndex: 301
+    - rowIndex: 271
+      debugIndex: 302
       strings:
       - EndScenario
       isEmpty: 0
@@ -3415,410 +6613,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Game/Game.xls:AdminDay
     type: 1
-    textLength: 8772
-    headerRow: 0
-    sourceAssetInEditor: {fileID: 0}
-    entityIndexTbl: 
-    entityDataList: []
-  - rows:
-    - rowIndex: 0
-      debugIndex: 0
-      strings:
-      - Command
-      - Arg1
-      - Arg2
-      - Arg3
-      - Arg4
-      - Arg5
-      - Arg6
-      - WaitType
-      - Text
-      - PageCtrl
-      - Voice
-      - WindowType
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 1
-      debugIndex: 2
-      strings:
-      - Voice
-      - Maid
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - MatureFemale\short_replies\alright.wav
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 2
-      debugIndex: 3
-      strings:
-      - 
-      - Maid
-      - 
-      - Center
-      - 
-      - 
-      - 
-      - 
-      - Fascinating, A specialist in technology
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 3
-      debugIndex: 4
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - It is not like that, but I does fix a great number of computer problems
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 4
-      debugIndex: 5
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - (Do I know her? I should ask her...)
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 5
-      debugIndex: 6
-      strings:
-      - '*AdminDreamSelectionTop'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 6
-      debugIndex: 7
-      strings:
-      - Selection
-      - '*AdminDreamQuestion1'
-      - adminDreamQuiz1
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Her Name
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 7
-      debugIndex: 8
-      strings:
-      - Selection
-      - '*AdminDreamQuestion2'
-      - adminDreamQuiz2
-      - 
-      - 
-      - 
-      - 
-      - 
-      - About this place
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 8
-      debugIndex: 9
-      strings:
-      - Selection
-      - '*AdminDreamQuestion3'
-      - adminDreamQuiz3
-      - 
-      - 
-      - 
-      - 
-      - 
-      - I saw you before?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 9
-      debugIndex: 10
-      strings:
-      - Selection
-      - '*AdminFinishAsking'
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Finish Asking
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 10
-      debugIndex: 12
-      strings:
-      - '*AdminDreamQuestion1'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 11
-      debugIndex: 13
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Hmm....What was your name again?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 12
-      debugIndex: 14
-      strings:
-      - Voice
-      - Maid
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - MatureFemale\noises\sigh1.wav
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 13
-      debugIndex: 15
-      strings:
-      - 
-      - Maid
-      - 
-      - Center
-      - 
-      - 
-      - 
-      - 
-      - Please call me Priscilla
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 14
-      debugIndex: 16
-      strings:
-      - Param
-      - adminDreamQuiz1=false
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 15
-      debugIndex: 17
-      strings:
-      - Jump
-      - '*AdminDreamSelectionTop'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 16
-      debugIndex: 19
-      strings:
-      - '*AdminDreamQuestion2'
-      - 
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 17
-      debugIndex: 20
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Where am i?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 18
-      debugIndex: 21
-      strings:
-      - Voice
-      - Maid
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - MatureFemale\short_replies\okay_happy.wav
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 19
-      debugIndex: 22
-      strings:
-      - 
-      - Maid
-      - 
-      - Center
-      - 
-      - 
-      - 
-      - 
-      - This is my place, Do you like it?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 20
-      debugIndex: 23
-      strings:
-      - Param
-      - adminDreamQuiz2=false
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 21
-      debugIndex: 24
-      strings:
-      - Jump
-      - '*AdminDreamSelectionTop'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 22
-      debugIndex: 26
-      strings:
-      - '*AdminDreamQuestion3'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 23
-      debugIndex: 27
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Have i seen you before?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 24
-      debugIndex: 28
-      strings:
-      - Voice
-      - Maid
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - MatureFemale\noises\laugh.wav
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 25
-      debugIndex: 29
-      strings:
-      - 
-      - Maid
-      - 
-      - Center
-      - 
-      - 
-      - 
-      - 
-      - It is a small world
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 26
-      debugIndex: 30
-      strings:
-      - Param
-      - adminDreamQuiz3=false
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 27
-      debugIndex: 31
-      strings:
-      - Jump
-      - '*AdminDreamSelectionTop'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 28
-      debugIndex: 33
-      strings:
-      - '*AdminFinishAsking'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 29
-      debugIndex: 34
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - (I think that is it)
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 30
-      debugIndex: 35
-      strings:
-      - CharacterOff
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 31
-      debugIndex: 37
-      strings:
-      - Jump
-      - '*AdminDay'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    name: Assets/Game/Game.xls:AdminDream
-    type: 1
-    textLength: 1085
+    textLength: 8820
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
     entityIndexTbl: 
@@ -10309,9 +13104,191 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - Sofia
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .75
+      - 
+      - 20190720_woman.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - HackerBill
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - hackerBill.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - RansomVictimList
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - ransomVictimList.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - CheckBC
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - CheckBC.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - PocketWifi
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - PocketWifi.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - Clerk
+      - Clerk
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .75
+      - 
+      - 20200517_boy
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - WireShark
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1.25
+      - 
+      - Wireshark.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - IG
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1.25
+      - 
+      - IG.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - TextBack
+      - Victim's Friend
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - AccountList
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - AccountList.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - DeepWeb
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - deepweb.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - Buyer
+      - Buyer
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Character
     type: 1
-    textLength: 730
+    textLength: 1007
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -10487,9 +13464,84 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - HackerRoomDay
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - personal room day.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - HackerRoomEvening
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - personal room evening.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - HackerRoomNight
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - personal room night.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - HackerScreen
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - HackerScreen.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - Jail
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1.3
+      - 
+      - jail.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Texture
     type: 1
-    textLength: 419
+    textLength: 586
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -10923,9 +13975,89 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - HackerAlarm
+      - 
+      - Se
+      - Alarm-ringtone.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - HackerPCAmbience
+      - 
+      - Ambience
+      - mixkit-sci-fi-computer-technology-2501.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - HackerHome1
+      - 
+      - Bgm
+      - 6. Fragile Heart.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - HackerHome2
+      - 
+      - Bgm
+      - 010_Runing Late.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - HackerCafe
+      - 
+      - Bgm
+      - Somewhere.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - HackerNight
+      - 
+      - Bgm
+      - 8. Melody of the Soul.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - Police
+      - 
+      - Se
+      - police.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - Knock
+      - 
+      - Se
+      - Knock.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Sound
     type: 1
-    textLength: 820
+    textLength: 1083
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -11206,9 +14338,69 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - hackerDreamQuiz1
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - hackerDreamQuiz2
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - hackerDreamQuiz3
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - checkRansomware
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - checkBills
+      - Bool
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings:
+      - sendPhishEmail
+      - Bool
+      - FALSE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Game/Game.xls:Param
     type: 1
-    textLength: 593
+    textLength: 729
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -11375,7 +14567,7 @@ MonoBehaviour:
       debugIndex: 10
       strings:
       - Selection
-      - '*Criminal'
+      - '*HackerDream'
       - 
       - 
       - 
@@ -11388,7 +14580,3318 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Game/Game.xls:Start
     type: 1
-    textLength: 363
+    textLength: 366
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 0}
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - Bg
+      - HackerRoomDay
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - Se
+      - HackerAlarm
+      - TRUE
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I knew it was a dream..but it looks so real)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - Selection
+      - '*StopHackerAlarm'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Turn off your alarm clock
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - '*StopHackerAlarm'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - StopSe
+      - HackerAlarm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - Bgm
+      - HackerHome1
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - 
+      - CalendarMonday
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (It is Monday, bills expire months ago, I really need to do something )
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - '*SelectionHackerTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - Selection
+      - '*CheckBills'
+      - checkBills
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Check Bills
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - Selection
+      - '*UseHackerPC'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Use Computer
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - '*CheckBills'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - Param
+      - checkBills=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - 
+      - HackerBill
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Darn, it is a month ago)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (How do I pay off such amount...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - Jump
+      - '*SelectionHackerTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - '*UseHackerPC'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - Bg
+      - HackerScreen
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - Ambience
+      - HackerPCAmbience
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Okay, Let do it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - '*HackerPCTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - Selection
+      - '*CheckRansomware'
+      - checkRansomware
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Check Ransomware result
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - Selection
+      - '*SendPhishEmail'
+      - sendPhishEmail
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Send out Phishing Email
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - '*CheckRansomware'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - Param
+      - sendPhishEmail=true
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings:
+      - Param
+      - checkRansomware=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 40
+      debugIndex: 40
+      strings:
+      - 
+      - WannaCry
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 41
+      debugIndex: 41
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is the Ransomware I distributed)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 42
+      debugIndex: 42
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (It can encrypt victim's data and ask for payment)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 43
+      debugIndex: 43
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let see how is my fish pond growing)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 44
+      debugIndex: 44
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 45
+      debugIndex: 45
+      strings:
+      - 
+      - RansomVictimList
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 46
+      debugIndex: 46
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (It is glowing, but not fast enough)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 47
+      debugIndex: 47
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (The decrypt key can pair with client id and decrypt their data)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 48
+      debugIndex: 48
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (But why should I bother? )
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 49
+      debugIndex: 49
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I am not going to send them out, even they pay me)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 50
+      debugIndex: 50
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 51
+      debugIndex: 51
+      strings:
+      - 
+      - CheckBC
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 52
+      debugIndex: 52
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Argh, I am so broke)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 53
+      debugIndex: 53
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I need to do more than this!)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 54
+      debugIndex: 54
+      strings:
+      - Jump
+      - '*HackerPCTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 55
+      debugIndex: 55
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 56
+      debugIndex: 56
+      strings:
+      - '*SendPhishEmail'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 57
+      debugIndex: 57
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 58
+      debugIndex: 58
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Time to do some Spear Fishing)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 59
+      debugIndex: 59
+      strings:
+      - 
+      - ClerkPhishmail
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 60
+      debugIndex: 60
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is the email that will be sent with my Spam Email server)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 61
+      debugIndex: 61
+      strings:
+      - Jump
+      - '*GFShow'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 62
+      debugIndex: 62
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 63
+      debugIndex: 63
+      strings:
+      - '*GFShow'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 64
+      debugIndex: 64
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 65
+      debugIndex: 65
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 66
+      debugIndex: 66
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 67
+      debugIndex: 67
+      strings:
+      - Bg
+      - HackerRoomDay
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 68
+      debugIndex: 68
+      strings:
+      - StopAmbience
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 69
+      debugIndex: 69
+      strings:
+      - Bgm
+      - HackerHome2
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 70
+      debugIndex: 70
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\anime_ah.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 71
+      debugIndex: 71
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - There you are
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 72
+      debugIndex: 72
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (My girl friend Sofia, we have been dating since high school)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 73
+      debugIndex: 73
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Sofi..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 74
+      debugIndex: 74
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\annoyed_grumble.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 75
+      debugIndex: 75
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Why didnt you call me back?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 76
+      debugIndex: 76
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I am..occupied
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 77
+      debugIndex: 77
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\question_words\what2.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 78
+      debugIndex: 78
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Is there anything I can help?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 79
+      debugIndex: 79
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I am fine, just mind your own business
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 80
+      debugIndex: 80
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\sigh2.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 81
+      debugIndex: 81
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Okay..I will come again
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 82
+      debugIndex: 82
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I need to take a breathe)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 83
+      debugIndex: 83
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 84
+      debugIndex: 84
+      strings:
+      - 
+      - PocketWifi
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 85
+      debugIndex: 85
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is a compact router with Wifi Radio and 4G connection)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 86
+      debugIndex: 86
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I will set it up as a public wifi)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 87
+      debugIndex: 87
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (and try to steal information if anyone connect to it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 88
+      debugIndex: 88
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 89
+      debugIndex: 89
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 90
+      debugIndex: 90
+      strings:
+      - Se
+      - ClerkWalking
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 91
+      debugIndex: 91
+      strings:
+      - Bg
+      - "Caf\xE9"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 92
+      debugIndex: 92
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 93
+      debugIndex: 93
+      strings:
+      - StopSe
+      - ClerkWalking
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 94
+      debugIndex: 94
+      strings:
+      - Ambience
+      - cafeAmbience
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 95
+      debugIndex: 95
+      strings:
+      - Bgm
+      - HackerCafe
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 96
+      debugIndex: 96
+      strings:
+      - Voice
+      - Hudson
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - sdap\6 - Miscellaneous\Male\Alex Brodie\miscellaneous_12_alex.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 97
+      debugIndex: 97
+      strings:
+      - 
+      - Hudson
+      - 
+      - Left
+      - 
+      - 
+      - 
+      - 
+      - At least we are having break now
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 98
+      debugIndex: 98
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 99
+      debugIndex: 99
+      strings:
+      - 
+      - Clerk
+      - 
+      - Right
+      - 
+      - 
+      - 
+      - 
+      - Yeah..Right..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 100
+      debugIndex: 100
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 101
+      debugIndex: 101
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Looks like this place is populated)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 102
+      debugIndex: 102
+      strings:
+      - 
+      - PocketWifi
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 103
+      debugIndex: 103
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (It is your turn, bring me something valuable)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 104
+      debugIndex: 104
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 105
+      debugIndex: 105
+      strings:
+      - 
+      - freeWifi
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - (It is working)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 106
+      debugIndex: 106
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 107
+      debugIndex: 107
+      strings:
+      - 
+      - WireShark
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 108
+      debugIndex: 108
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let me see...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 109
+      debugIndex: 109
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Social Media Account..Email Account...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 110
+      debugIndex: 110
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Great!)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 111
+      debugIndex: 111
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let me test the friendship between you and your friends)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 112
+      debugIndex: 112
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 113
+      debugIndex: 113
+      strings:
+      - 
+      - IG
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 114
+      debugIndex: 114
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let try the one who is currently online)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 115
+      debugIndex: 115
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-smartphone-typing-1393.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 116
+      debugIndex: 116
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 'Text: Hey How you doing'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 117
+      debugIndex: 117
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 118
+      debugIndex: 118
+      strings:
+      - 
+      - TextBack
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Great! How about you?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 119
+      debugIndex: 119
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-smartphone-typing-1393.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 120
+      debugIndex: 120
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 'Text: Actaully, I may need some help'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 121
+      debugIndex: 121
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 122
+      debugIndex: 122
+      strings:
+      - 
+      - TextBack
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - What is it?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 123
+      debugIndex: 123
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-smartphone-typing-1393.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 124
+      debugIndex: 124
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I am on business trip and short on cash, could you send 800 to my account
+        ?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 125
+      debugIndex: 125
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I will return to you asap
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 126
+      debugIndex: 126
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 127
+      debugIndex: 127
+      strings:
+      - 
+      - TextBack
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Sure, I transfer to you after work, send to the same account?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 128
+      debugIndex: 128
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-smartphone-typing-1393.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 129
+      debugIndex: 129
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 'No no, please send it to my new account: 099-233941'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 130
+      debugIndex: 130
+      strings:
+      - Voice
+      - TextBack
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 131
+      debugIndex: 131
+      strings:
+      - 
+      - TextBack
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Okie, Lets meet when you get back, I will try to get Louis too
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 132
+      debugIndex: 132
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 133
+      debugIndex: 133
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (HAHAHA, Easy)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 134
+      debugIndex: 134
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Gonna go home and sell the victim's data on the web)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 135
+      debugIndex: 135
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 136
+      debugIndex: 136
+      strings:
+      - StopBgm
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 137
+      debugIndex: 137
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 138
+      debugIndex: 138
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 139
+      debugIndex: 139
+      strings:
+      - Bgm
+      - HackerNight
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 140
+      debugIndex: 140
+      strings:
+      - Bg
+      - HackerRoomNight
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 141
+      debugIndex: 141
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Let do the last thing of today)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 142
+      debugIndex: 142
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 143
+      debugIndex: 143
+      strings:
+      - Bg
+      - HackerScreen
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 144
+      debugIndex: 144
+      strings:
+      - Ambience
+      - HackerPCAmbience
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 145
+      debugIndex: 145
+      strings:
+      - Selection
+      - '*SellList'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Sell the Victim Data on the web
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 146
+      debugIndex: 146
+      strings:
+      - '*SellList'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 147
+      debugIndex: 147
+      strings:
+      - 
+      - AccountList
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 148
+      debugIndex: 148
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is the list, Hope it worth my time dealing with it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 149
+      debugIndex: 149
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 150
+      debugIndex: 150
+      strings:
+      - 
+      - DeepWeb
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 151
+      debugIndex: 151
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 152
+      debugIndex: 152
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 153
+      debugIndex: 153
+      strings:
+      - Bg
+      - HackerScreen
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 154
+      debugIndex: 154
+      strings:
+      - 
+      - DeepWeb
+      - 
+      - Center
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 155
+      debugIndex: 155
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - '*After a moment later*'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 156
+      debugIndex: 156
+      strings:
+      - Voice
+      - Buyer
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 157
+      debugIndex: 157
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Hey, You still selling?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 158
+      debugIndex: 158
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Great, a buyer)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 159
+      debugIndex: 159
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Yeah, You interested?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 160
+      debugIndex: 160
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - How do I pay to you?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 161
+      debugIndex: 161
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - To my BitCoin Account will do
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 162
+      debugIndex: 162
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Listen dude, I am quite urgent on this one
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 163
+      debugIndex: 163
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - If I can get it right now, I can pay you more
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 164
+      debugIndex: 164
+      strings:
+      - Voice
+      - Buyer
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mixkit-positive-notification-951.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 165
+      debugIndex: 165
+      strings:
+      - 
+      - Buyer
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Do you have any account besides Bitcoin?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 166
+      debugIndex: 166
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (No way I am retrieving payment on a real account)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 167
+      debugIndex: 167
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (But I really need that extra cash, hmm.. That account may do)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 168
+      debugIndex: 168
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 'Send to this account: 099-233941'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 169
+      debugIndex: 169
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 170
+      debugIndex: 170
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Settled!)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 171
+      debugIndex: 171
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 172
+      debugIndex: 172
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 173
+      debugIndex: 173
+      strings:
+      - Bg
+      - HackerRoomNight
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 174
+      debugIndex: 174
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (This is time to rest)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 175
+      debugIndex: 175
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\anime_ah.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 176
+      debugIndex: 176
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Hey..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 177
+      debugIndex: 177
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Sofi again)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 178
+      debugIndex: 178
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Sofi, I will make it right and I have plans
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 179
+      debugIndex: 179
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - So dont worry, I got it
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 180
+      debugIndex: 180
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\anime_haa.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 181
+      debugIndex: 181
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - But you said..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 182
+      debugIndex: 182
+      strings:
+      - Se
+      - Knock
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 183
+      debugIndex: 183
+      strings:
+      - Se
+      - Police
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 184
+      debugIndex: 184
+      strings:
+      - Voice
+      - Sofia
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\question_words\what3.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 185
+      debugIndex: 185
+      strings:
+      - 
+      - Sofia
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - But you said..
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 186
+      debugIndex: 186
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (screwed up..)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 187
+      debugIndex: 187
+      strings:
+      - StopSe
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 188
+      debugIndex: 188
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 189
+      debugIndex: 189
+      strings:
+      - FadeIn
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 190
+      debugIndex: 190
+      strings:
+      - Bg
+      - Jail
+      - 
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 191
+      debugIndex: 191
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - By The Computer Misuse Act 1990 (CMA 1990)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 192
+      debugIndex: 192
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - '1. Unauthorised access to computer material;
+
+'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 193
+      debugIndex: 193
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 2. Unauthorised access with intent to commit a further offence;
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 194
+      debugIndex: 194
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 3. Unauthorised acts with intent to impair, or with recklessness as to impairing,
+        operation of computer, etc (as amended by the Police and Justice Act 2006).
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 195
+      debugIndex: 195
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "Penalties for offences under CMA 1990 range from two years\u2019 imprisonment
+        and/or a fine for unauthorised access to computer material;"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 196
+      debugIndex: 196
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Up to five years and/or a fine for unauthorised access with intent to commit
+        or facilitate commission of further offences;
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 197
+      debugIndex: 197
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Up to 10 years and/or a fine for unauthorised modification of computer material;
+        and imprisonment for life and/or a fine for breach of s 3ZA.
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 198
+      debugIndex: 198
+      strings:
+      - FadeOut
+      - black
+      - 
+      - 
+      - 
+      - 
+      - .8
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 199
+      debugIndex: 199
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Demo End
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 200
+      debugIndex: 200
+      strings:
+      - EndScenario
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Game/Game.xls:HackerDay
+    type: 1
+    textLength: 5670
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 0}
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\alright.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Gambling kind? Walking the wire take guts
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - It is a business, I just want to make fortune
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Do I know her? I should ask her...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - '*HackerDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - Selection
+      - '*HackerDreamQuestion1'
+      - hackerDreamQuiz1
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Who is this woman?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - Selection
+      - '*HackerDreamQuestion2'
+      - hackerDreamQuiz2
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Why am I here?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - Selection
+      - '*HackerDreamQuestion3'
+      - hackerDreamQuiz3
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Do I know her?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - Selection
+      - '*HackerFinishAsking'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Finish Asking
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - '*HackerDreamQuestion1'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Who are you?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\sigh1.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - I am the Housekeeper
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (What? I dont understand)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - Param
+      - hackerDreamQuiz1=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - Jump
+      - '*HackerDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - '*HackerDreamQuestion2'
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - What is the place?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\okay_happy.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - This is my place, You came here by your intention
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - Param
+      - hackerDreamQuiz2=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - Jump
+      - '*HackerDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - '*HackerDreamQuestion3'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I dont know you
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\laugh.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Nice to meet you
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - Param
+      - hackerDreamQuiz3=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - Jump
+      - '*HackerDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - '*HackerFinishAsking'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I think that is it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\greetings\goodbye.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Farewell, Hope we will meet again
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 40
+      debugIndex: 40
+      strings:
+      - Jump
+      - '*HackerDay'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Game/Game.xls:HackerDream
+    type: 1
+    textLength: 1184
+    headerRow: 0
+    sourceAssetInEditor: {fileID: 0}
+  - rows:
+    - rowIndex: 0
+      debugIndex: 0
+      strings:
+      - Command
+      - Arg1
+      - Arg2
+      - Arg3
+      - Arg4
+      - Arg5
+      - Arg6
+      - WaitType
+      - Text
+      - PageCtrl
+      - Voice
+      - WindowType
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\alright.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Fascinating, A specialist in technology
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - It is not like that, but I does fix a great number of computer problems
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (Do I know her? I should ask her...)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - '*AdminDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - Selection
+      - '*AdminDreamQuestion1'
+      - adminDreamQuiz1
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Her Name
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - Selection
+      - '*AdminDreamQuestion2'
+      - adminDreamQuiz2
+      - 
+      - 
+      - 
+      - 
+      - 
+      - About this place
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - Selection
+      - '*AdminDreamQuestion3'
+      - adminDreamQuiz3
+      - 
+      - 
+      - 
+      - 
+      - 
+      - I saw you before?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - Selection
+      - '*AdminFinishAsking'
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Finish Asking
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - '*AdminDreamQuestion1'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Hmm....What was your name again?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\sigh1.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - Please call me Priscilla
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - Param
+      - adminDreamQuiz1=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - Jump
+      - '*AdminDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - '*AdminDreamQuestion2'
+      - 
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Where am i?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\short_replies\okay_happy.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - This is my place, Do you like it?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - Param
+      - adminDreamQuiz2=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - Jump
+      - '*AdminDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - '*AdminDreamQuestion3'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Have i seen you before?
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - Voice
+      - Maid
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - MatureFemale\noises\laugh.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - 
+      - Maid
+      - 
+      - Center
+      - 
+      - 
+      - 
+      - 
+      - It is a small world
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - Param
+      - adminDreamQuiz3=false
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - Jump
+      - '*AdminDreamSelectionTop'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - '*AdminFinishAsking'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - (I think that is it)
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - CharacterOff
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - Jump
+      - '*AdminDay'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Game/Game.xls:AdminDream
+    type: 1
+    textLength: 1085
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -14569,14 +21072,14 @@ MonoBehaviour:
       - 
       - 
       - 
-      - Yeah, I helped monney clean the dinning table
+      - Yeah, I helped monny clean the dinning table
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 281
       debugIndex: 281
       strings:
-      - CharcterOff
+      - CharacterOff
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -14654,35 +21157,51 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 287
       debugIndex: 287
-      strings: []
-      isEmpty: 1
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - Can we have dinner? I havent eat yet
+      isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 288
       debugIndex: 288
       strings:
-      - FadeIn
+      - CharacterOff
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 289
       debugIndex: 289
       strings:
-      - Bgm
-      - VisionsofInnocence
+      - FadeIn
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 290
       debugIndex: 290
       strings:
-      - Bg
-      - StartingRoom
+      - Bgm
+      - VisionsofInnocence
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 291
       debugIndex: 291
+      strings:
+      - Bg
+      - StartingRoom
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 292
+      debugIndex: 292
       strings:
       - Voice
       - Maid
@@ -14698,8 +21217,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 292
-      debugIndex: 292
+    - rowIndex: 293
+      debugIndex: 293
       strings:
       - 
       - Maid
@@ -14713,8 +21232,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 293
-      debugIndex: 293
+    - rowIndex: 294
+      debugIndex: 294
       strings:
       - 
       - 
@@ -14728,8 +21247,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 294
-      debugIndex: 294
+    - rowIndex: 295
+      debugIndex: 295
       strings:
       - Voice
       - Maid
@@ -14745,8 +21264,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 295
-      debugIndex: 295
+    - rowIndex: 296
+      debugIndex: 296
       strings:
       - 
       - Maid
@@ -14760,8 +21279,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 296
-      debugIndex: 296
+    - rowIndex: 297
+      debugIndex: 297
       strings:
       - Voice
       - Maid
@@ -14777,8 +21296,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 297
-      debugIndex: 297
+    - rowIndex: 298
+      debugIndex: 298
       strings:
       - 
       - Maid
@@ -14792,14 +21311,14 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 298
-      debugIndex: 298
+    - rowIndex: 299
+      debugIndex: 299
       strings: []
       isEmpty: 1
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 299
-      debugIndex: 299
+    - rowIndex: 300
+      debugIndex: 300
       strings:
       - FadeOut
       - black
@@ -14811,8 +21330,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 300
-      debugIndex: 300
+    - rowIndex: 301
+      debugIndex: 301
       strings:
       - 
       - 
@@ -14826,17 +21345,11 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 301
-      debugIndex: 301
+    - rowIndex: 302
+      debugIndex: 302
       strings:
       - EndScenario
       isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 302
-      debugIndex: 302
-      strings: []
-      isEmpty: 1
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 303
@@ -15525,16 +22038,7 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 417
       debugIndex: 417
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
+      strings: []
       isEmpty: 1
       isCommentOut: 0
       debugInfo: 
@@ -15570,7 +22074,16 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 420
       debugIndex: 420
-      strings: []
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
       isEmpty: 1
       isCommentOut: 0
       debugInfo: 
@@ -15618,14 +22131,20 @@ MonoBehaviour:
       debugInfo: 
     - rowIndex: 428
       debugIndex: 428
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 429
+      debugIndex: 429
       strings:
       - 
       - 
       isEmpty: 1
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 429
-      debugIndex: 429
+    - rowIndex: 430
+      debugIndex: 430
       strings:
       - 
       - 
@@ -15641,444 +22160,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Game/Game.xls:AdminDay
     type: 1
-    textLength: 8772
-    headerRow: 0
-    sourceAssetInEditor: {fileID: 0}
-  - rows:
-    - rowIndex: 0
-      debugIndex: 0
-      strings:
-      - Command
-      - Arg1
-      - Arg2
-      - Arg3
-      - Arg4
-      - Arg5
-      - Arg6
-      - WaitType
-      - Text
-      - PageCtrl
-      - Voice
-      - WindowType
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 1
-      debugIndex: 1
-      strings: []
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 2
-      debugIndex: 2
-      strings:
-      - Voice
-      - Maid
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - MatureFemale\short_replies\alright.wav
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 3
-      debugIndex: 3
-      strings:
-      - 
-      - Maid
-      - 
-      - Center
-      - 
-      - 
-      - 
-      - 
-      - Fascinating, A specialist in technology
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 4
-      debugIndex: 4
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - It is not like that, but I does fix a great number of computer problems
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 5
-      debugIndex: 5
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - (Do I know her? I should ask her...)
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 6
-      debugIndex: 6
-      strings:
-      - '*AdminDreamSelectionTop'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 7
-      debugIndex: 7
-      strings:
-      - Selection
-      - '*AdminDreamQuestion1'
-      - adminDreamQuiz1
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Her Name
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 8
-      debugIndex: 8
-      strings:
-      - Selection
-      - '*AdminDreamQuestion2'
-      - adminDreamQuiz2
-      - 
-      - 
-      - 
-      - 
-      - 
-      - About this place
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 9
-      debugIndex: 9
-      strings:
-      - Selection
-      - '*AdminDreamQuestion3'
-      - adminDreamQuiz3
-      - 
-      - 
-      - 
-      - 
-      - 
-      - I saw you before?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 10
-      debugIndex: 10
-      strings:
-      - Selection
-      - '*AdminFinishAsking'
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Finish Asking
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 11
-      debugIndex: 11
-      strings: []
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 12
-      debugIndex: 12
-      strings:
-      - '*AdminDreamQuestion1'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 13
-      debugIndex: 13
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Hmm....What was your name again?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 14
-      debugIndex: 14
-      strings:
-      - Voice
-      - Maid
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - MatureFemale\noises\sigh1.wav
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 15
-      debugIndex: 15
-      strings:
-      - 
-      - Maid
-      - 
-      - Center
-      - 
-      - 
-      - 
-      - 
-      - Please call me Priscilla
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 16
-      debugIndex: 16
-      strings:
-      - Param
-      - adminDreamQuiz1=false
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 17
-      debugIndex: 17
-      strings:
-      - Jump
-      - '*AdminDreamSelectionTop'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 18
-      debugIndex: 18
-      strings: []
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 19
-      debugIndex: 19
-      strings:
-      - '*AdminDreamQuestion2'
-      - 
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 20
-      debugIndex: 20
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Where am i?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 21
-      debugIndex: 21
-      strings:
-      - Voice
-      - Maid
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - MatureFemale\short_replies\okay_happy.wav
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 22
-      debugIndex: 22
-      strings:
-      - 
-      - Maid
-      - 
-      - Center
-      - 
-      - 
-      - 
-      - 
-      - This is my place, Do you like it?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 23
-      debugIndex: 23
-      strings:
-      - Param
-      - adminDreamQuiz2=false
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 24
-      debugIndex: 24
-      strings:
-      - Jump
-      - '*AdminDreamSelectionTop'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 25
-      debugIndex: 25
-      strings: []
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 26
-      debugIndex: 26
-      strings:
-      - '*AdminDreamQuestion3'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 27
-      debugIndex: 27
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - Have i seen you before?
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 28
-      debugIndex: 28
-      strings:
-      - Voice
-      - Maid
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - MatureFemale\noises\laugh.wav
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 29
-      debugIndex: 29
-      strings:
-      - 
-      - Maid
-      - 
-      - Center
-      - 
-      - 
-      - 
-      - 
-      - It is a small world
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 30
-      debugIndex: 30
-      strings:
-      - Param
-      - adminDreamQuiz3=false
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 31
-      debugIndex: 31
-      strings:
-      - Jump
-      - '*AdminDreamSelectionTop'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 32
-      debugIndex: 32
-      strings: []
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 33
-      debugIndex: 33
-      strings:
-      - '*AdminFinishAsking'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 34
-      debugIndex: 34
-      strings:
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - (I think that is it)
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 35
-      debugIndex: 35
-      strings:
-      - CharacterOff
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 36
-      debugIndex: 36
-      strings: []
-      isEmpty: 1
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 37
-      debugIndex: 37
-      strings:
-      - Jump
-      - '*AdminDay'
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    name: Assets/Game/Game.xls:AdminDream
-    type: 1
-    textLength: 1085
+    textLength: 8820
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
